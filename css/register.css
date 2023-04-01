@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    /* text-decoration: none; */
+    box-sizing: border-box;
+}
+body {
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+.centrar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+/* HEADER     HEADER    HEADER    HEADER    HEADER    HEADER */
+header {
+    height: 3.8rem;
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1b1b1b;
+}
+
+#logo {
+    width: 222px;
+    vertical-align: middle !important;
+}
+
+
+
+/* MAIN     MAIN    MAIN    MAIN    MAIN    MAIN */
+main {
+    background-color: rgb(247, 151, 30, 0.9);
+    height: calc(100vh - 3.8rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+/*contenedor afuera*/
+.contenedor {
+    height: 100%;
+    width: 100%;
+    padding: 2rem 3rem 2rem 3rem; 
+
+    background: linear-gradient(to left, rgba(64, 58, 64, 0.406), rgba(62, 51, 62, 0.1)), 
+    url(../img/bg/login4.jpg) no-repeat;
+    background-size: cover;
+}
+/*contenedor interior*/
+.tarjeta {
+    height: 100%;
+    width: 100%;
+
+    border-radius: 1rem;
+    background: url(../img/bg/login4.jpg) no-repeat;
+    background-size:cover;
+    border: solid rgb(27, 27, 27) 6px;
+    box-shadow: 0.8rem 0.8rem 0.8rem  black;
+}
+
+
+/*form register*/
+.formulario_register{
+    text-align: center;
+    width:700px;
+    height:340px;
+    background: rgba(8, 8, 8, 0.801);
+    border-radius:10px;
+    border:1px solid black;
+    box-shadow: 0.6rem 0.6rem 0.5rem  black;
+}
+
+
+
+/*title form*/
+h2{
+    height:40px;
+    text-align: center;
+    margin-bottom:30px;
+    color: white;   
+    margin-top: 15px;
+}
+
+/*inputs style*/
+.input_box {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+
+.inp{
+    height: 2rem;
+    width: 300px;
+    padding: 5px;
+
+    font-size: 12pt;
+
+    border: none;
+    border-bottom:1px solid rgb(255, 253, 253);
+    background: transparent;
+    color: white;
+}
+::placeholder{
+    color: white;
+}
+.inp::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+.inp:-webkit-autofill,
+.inp:-webkit-autofill:hover,
+.inp:-webkit-autofill:focus,
+.inp:-webkit-autofill:active {
+    transition:5000s ease-in-out 0s;
+    color: transparent;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+.icons {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+    user-select: none;
+}
+
+.selected{
+    border: 2px solid red;
+}
+
+.img_selector{
+    user-select: none;
+}
+
+#icon-modal{
+    overflow-x: hidden;
+    margin: 180px auto auto auto;
+    text-align: center;
+    width:700px;
+    height:340px;
+    background: rgba(8, 8, 8);
+    border-radius:10px;
+    border:1px solid black;
+    box-shadow: 0.6rem 0.6rem 0.5rem  black;
+}
+
+.icon-container{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 15px;
+    display: grid;
+    gap: 30px 0px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.btns{
+    margin-top: 30px;
+}
+
+
+/*submit*/
+#submit {
+    width: 420px;
+    height: 40px;
+    margin-top:25px;
+
+    font-size: 1.2rem;
+    font-weight: 600;
+
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    background-color:rgb(156, 188, 236);
+    
+}
+#submit:hover{
+    background-color: aliceblue;
+}

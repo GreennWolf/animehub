@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión</title>
+    <link rel="stylesheet" href="../css/login_style.css">
+</head>
+<body>
+    <div class="general">
+        <header>
+            <a href="../index.php"><img id="logo" src="../img/Logo.png"></a>
+        </header>
+        <main>
+            <div id="contenedor" class="contenedor">
+                <div id="tarjeta" class="tarjeta centrar">
+                    <div class="formulario">
+                        <form action="../php_function/login.php" method="POST">
+                            
+                            <div class="form_left">
+                                <h2>Iniciar Sesion</h2>
+                                <input type="text" class="inp" name="username" id="username" placeholder="User" required>
+                                <input type="password" class="inp" name="pw" id="password" placeholder="pass" required>
+                            </div>
+                            <input type="submit" class="button" name="submit_login" value="Submit">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+<script src="../js/login.js"></script>
+</body>
+</html>

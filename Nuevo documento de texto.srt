@@ -1,0 +1,334 @@
+[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleSeries,Trebuchet MS,32,&H001360D8,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1,1,8,0020,0020,0015,1
+Style: Cart_Avance,Arial,28,&H000D00D3,&H000000FF,&H00060503,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0100,1
+Style: Cart_Next,Trebuchet MS,24,&H00AB7F28,&H000000FF,&H00FFFFFF,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0100,1
+Style: Cart_Nota,Trebuchet MS,24,&H000ABFF4,&H000000FF,&H00262626,&H00B1B1B1,-1,0,0,0,100,100,0,0,1,0,1,1,0040,0010,0170,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00F1F1F1,&H00F1F1F1,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Ari,Arial,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleEp,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,0050,0040,0050,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:25.27,0:00:26.46,Gen_Italics,NTP,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:00:29.82,0:00:32.21,Gen_Italics,NTP,0000,0000,0000,,¿Por qué tuvo que pasar esto?
+Dialogue: 0,0:00:34.53,0:00:37.14,Gen_Main,NTP,0000,0000,0000,,Nezuko, no te mueras. ¡No te mueras!
+Dialogue: 0,0:00:39.33,0:00:41.56,Gen_Main,NTP,0000,0000,0000,,Te prometo que te salvaré.
+Dialogue: 0,0:00:43.50,0:00:44.94,Gen_Main,NTP,0000,0000,0000,,No dejaré que mueras.
+Dialogue: 0,0:00:46.38,0:00:50.77,Gen_Main,NTP,0000,0000,0000,,Tu hermano te salvará.
+Dialogue: 0,0:01:03.06,0:01:04.41,Gen_Main,NTP,0000,0000,0000,,¿Tanjiro?
+Dialogue: 0,0:01:07.57,0:01:09.79,Gen_Main,NTP,0000,0000,0000,,Tienes la cara negra.
+Dialogue: 0,0:01:10.07,0:01:11.88,Gen_Main,NTP,0000,0000,0000,,Ven aquí.
+Dialogue: 0,0:01:14.07,0:01:17.97,Gen_Main,NTP,0000,0000,0000,,Es peligroso ir cuando nieva.\NNo es necesario que vayas.
+Dialogue: 0,0:01:18.64,0:01:23.13,Gen_Main,NTP,0000,0000,0000,,Quiero que todos coman\Nhasta no poder más en Año Nuevo.
+Dialogue: 0,0:01:23.42,0:01:25.68,Gen_Main,NTP,0000,0000,0000,,Iré a vender carbón.
+Dialogue: 0,0:01:26.67,0:01:28.31,Gen_Main,NTP,0000,0000,0000,,Gracias.
+Dialogue: 0,0:01:29.80,0:01:30.94,Gen_Main,NTP,0000,0000,0000,,¡Hermano!
+Dialogue: 0,0:01:32.63,0:01:34.62,Gen_Main,NTP,0000,0000,0000,,¿Hoy también irás a la ciudad?
+Dialogue: 0,0:01:34.62,0:01:36.32,Gen_Main,NTP,0000,0000,0000,,¡Te acompaño!
+Dialogue: 0,0:01:38.10,0:01:39.24,Gen_Main,NTP,0000,0000,0000,,No puedes ir.
+Dialogue: 0,0:01:39.47,0:01:42.20,Gen_Main,NTP,0000,0000,0000,,No caminas tan rápido como Tanjiro.
+Dialogue: 0,0:01:42.46,0:01:44.10,Gen_Main,NTP,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:01:44.10,0:01:45.20,Gen_Main,NTP,0000,0000,0000,,No.
+Dialogue: 0,0:01:45.52,0:01:47.96,Gen_Main,NTP,0000,0000,0000,,Hoy no puede llevar el carro.
+Dialogue: 0,0:01:48.27,0:01:51.04,Gen_Main,NTP,0000,0000,0000,,No podrán descansar en él.
+Dialogue: 0,0:01:53.32,0:01:55.05,Gen_Main,NTP,0000,0000,0000,,¡Hermano!
+Dialogue: 0,0:01:56.24,0:01:57.88,Gen_Main,NTP,0000,0000,0000,,¡Quiero ir contigo!
+Dialogue: 0,0:01:58.53,0:02:00.64,Gen_Main,NTP,0000,0000,0000,,Te prometo que te ayudaré.
+Dialogue: 0,0:02:01.50,0:02:03.14,Gen_Main,NTP,0000,0000,0000,,Gracias, Hanako.
+Dialogue: 0,0:02:03.83,0:02:06.14,Gen_Main,NTP,0000,0000,0000,,Pero hoy te quedarás en casa.
+Dialogue: 0,0:02:09.55,0:02:14.02,Gen_Main,NTP,0000,0000,0000,,Tú también, Shigeru.\NA cambio, les traeré cosas ricas.
+Dialogue: 0,0:02:14.02,0:02:15.26,Gen_Main,NTP,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:02:15.26,0:02:16.24,Gen_Main,NTP,0000,0000,0000,,Sí.
+Dialogue: 0,0:02:18.01,0:02:21.06,Gen_Main,NTP,0000,0000,0000,,Hanako, te leeré un libro cuando vuelva.
+Dialogue: 0,0:02:21.06,0:02:21.99,Gen_Main,NTP,0000,0000,0000,,Bien.
+Dialogue: 0,0:02:22.31,0:02:23.37,Gen_Main,NTP,0000,0000,0000,,Buena niña.
+Dialogue: 0,0:02:23.64,0:02:25.77,Gen_Main,NTP,0000,0000,0000,,Gracias, Tanjiro.
+Dialogue: 0,0:02:25.77,0:02:26.75,Gen_Main,NTP,0000,0000,0000,,De nada.
+Dialogue: 0,0:02:27.15,0:02:28.75,Gen_Main,NTP,0000,0000,0000,,Me voy ya.
+Dialogue: 0,0:02:29.13,0:02:30.12,Gen_Main,NTP,0000,0000,0000,,Takeo…
+Dialogue: 0,0:02:30.40,0:02:34.34,Gen_Main,NTP,0000,0000,0000,,¿Puedes cortar un poco de leña?\NLa que puedas.
+Dialogue: 0,0:02:34.61,0:02:37.42,Gen_Main,NTP,0000,0000,0000,,Lo haré, pero…
+Dialogue: 0,0:02:37.91,0:02:40.80,Gen_Main,NTP,0000,0000,0000,,Pensaba que lo haríamos juntos.
+Dialogue: 0,0:02:42.87,0:02:43.97,Gen_Main,NTP,0000,0000,0000,,Buen niño.
+Dialogue: 0,0:02:43.97,0:02:45.64,Gen_Main,NTP,0000,0000,0000,,¿A qué viene eso?
+Dialogue: 0,0:02:45.64,0:02:47.35,Gen_Main,NTP,0000,0000,0000,,¡Take se sonrojó!
+Dialogue: 0,0:02:47.35,0:02:48.73,Gen_Main,NTP,0000,0000,0000,,¡Cállate!
+Dialogue: 0,0:02:48.73,0:02:50.02,Gen_Main,NTP,0000,0000,0000,,Buen chico.
+Dialogue: 0,0:02:50.02,0:02:52.00,Gen_Main,NTP,0000,0000,0000,,¡Para ya!
+Dialogue: 0,0:02:56.88,0:02:59.28,Gen_Main,NTP,0000,0000,0000,,¡Vuelve pronto!
+Dialogue: 0,0:02:59.64,0:03:01.49,Gen_Main,NTP,0000,0000,0000,,¡Ten cuidado!
+Dialogue: 0,0:03:06.89,0:03:08.20,Gen_Main,NTP,0000,0000,0000,,Hermano.
+Dialogue: 0,0:03:09.27,0:03:10.33,Gen_Main,NTP,0000,0000,0000,,Nezuko.
+Dialogue: 0,0:03:10.65,0:03:15.46,Gen_Main,NTP,0000,0000,0000,,Llevé a Rokuta a dormir\Npara que no causara demasiado alboroto.
+Dialogue: 0,0:03:15.86,0:03:18.96,Gen_Main,NTP,0000,0000,0000,,Extraña a papá desde que falleció.
+Dialogue: 0,0:03:20.95,0:03:24.72,Gen_Main,NTP,0000,0000,0000,,Por eso ahora todos te siguen a ti.
+Dialogue: 0,0:03:27.00,0:03:28.43,Gen_Main,NTP,0000,0000,0000,,Buen viaje.
+Dialogue: 0,0:03:31.71,0:03:33.81,Gen_Italics,NTP,0000,0000,0000,,No tenemos una vida fácil,
+Dialogue: 0,0:03:34.42,0:03:35.86,Gen_Italics,NTP,0000,0000,0000,,pero somos felices.
+Dialogue: 0,0:03:36.76,0:03:40.11,Gen_Italics,NTP,0000,0000,0000,,Aunque la vida es como el tiempo.
+Dialogue: 0,0:03:40.97,0:03:43.66,Gen_Italics,NTP,0000,0000,0000,,Va cambiando.
+Dialogue: 0,0:03:44.52,0:03:46.74,Gen_Italics,NTP,0000,0000,0000,,No siempre hace sol
+Dialogue: 0,0:03:47.18,0:03:49.75,Gen_Italics,NTP,0000,0000,0000,,y no siempre nieva.
+Dialogue: 0,0:03:50.69,0:03:54.79,Gen_Italics,NTP,0000,0000,0000,,Y cuando la felicidad se desmorona,
+Dialogue: 0,0:03:55.15,0:03:56.25,Gen_Italics,NTP,0000,0000,0000,,siempre…
+Dialogue: 0,0:03:57.19,0:03:58.92,Gen_Italics,NTP,0000,0000,0000,,huele a sangre.
+Dialogue: 0,0:04:07.87,0:04:09.85,Gen_Main,NTP,0000,0000,0000,,Vaya, hola, Tanjiro.
+Dialogue: 0,0:04:09.85,0:04:12.92,Gen_Main,NTP,0000,0000,0000,,¿Bajaste por la montaña con este tiempo?
+Dialogue: 0,0:04:12.92,0:04:14.91,Gen_Main,NTP,0000,0000,0000,,Eres muy trabajador.
+Dialogue: 0,0:04:15.17,0:04:16.52,Gen_Main,NTP,0000,0000,0000,,Te resfriarás.
+Dialogue: 0,0:04:17.05,0:04:18.76,Gen_Main,NTP,0000,0000,0000,,Estoy bien.
+Dialogue: 0,0:04:18.76,0:04:21.11,Gen_Main,NTP,0000,0000,0000,,¿Tiene suficiente carbón?
+Dialogue: 0,0:04:21.47,0:04:23.53,Gen_Main,NTP,0000,0000,0000,,¡Tanjiro!
+Dialogue: 0,0:04:24.33,0:04:25.99,Gen_Main,NTP,0000,0000,0000,,Véndeme un poco de carbón.
+Dialogue: 0,0:04:26.31,0:04:29.95,Gen_Main,NTP,0000,0000,0000,,Gracias por cambiar el papel\Nde mi puerta el otro día.
+Dialogue: 0,0:04:29.95,0:04:31.95,Gen_Main,NTP,0000,0000,0000,,Yo también quiero carbón.
+Dialogue: 0,0:04:35.94,0:04:39.30,Gen_Main,NTP,0000,0000,0000,,¡Tanjiro! ¡Llegas en un buen momento!
+Dialogue: 0,0:04:40.20,0:04:43.24,Gen_Main,NTP,0000,0000,0000,,Me acusan de romper este plato.
+Dialogue: 0,0:04:43.24,0:04:44.80,Gen_Main,NTP,0000,0000,0000,,Ayúdame, por favor.
+Dialogue: 0,0:04:45.03,0:04:46.14,Gen_Main,NTP,0000,0000,0000,,¡Huélelo!
+Dialogue: 0,0:04:50.71,0:04:52.39,Gen_Main,NTP,0000,0000,0000,,Huele a gato.
+Dialogue: 0,0:04:52.71,0:04:54.17,Gen_Main,NTP,0000,0000,0000,,¿Ves?
+Dialogue: 0,0:04:54.17,0:04:55.90,Gen_Main,NTP,0000,0000,0000,,¿Fue un gato?
+Dialogue: 0,0:04:55.90,0:04:58.27,Gen_Main,NTP,0000,0000,0000,,¡Ya dije que no fui yo!
+Dialogue: 0,0:04:58.59,0:04:59.77,Gen_Main,NTP,0000,0000,0000,,¡Tanjiro!
+Dialogue: 0,0:05:00.01,0:05:03.53,Gen_Main,NTP,0000,0000,0000,,¿Me ayudas a cargar con esto, por favor?
+Dialogue: 0,0:05:07.77,0:05:09.87,Gen_Main,NTP,0000,0000,0000,,Se hizo tarde.
+Dialogue: 0,0:05:10.53,0:05:13.16,Gen_Main,NTP,0000,0000,0000,,Pero lo vendí todo.
+Dialogue: 0,0:05:14.73,0:05:16.25,Gen_Main,NTP,0000,0000,0000,,¡Tanjiro!
+Dialogue: 0,0:05:17.90,0:05:20.25,Gen_Main,NTP,0000,0000,0000,,¿Volverás a la montaña?
+Dialogue: 0,0:05:20.49,0:05:22.24,Gen_Main,NTP,0000,0000,0000,,No lo hagas, es peligroso.
+Dialogue: 0,0:05:22.57,0:05:25.55,Gen_Main,NTP,0000,0000,0000,,Tengo buen olfato. Estaré bien.
+Dialogue: 0,0:05:25.91,0:05:27.83,Gen_Main,NTP,0000,0000,0000,,Quédate en mi casa.
+Dialogue: 0,0:05:27.83,0:05:29.89,Gen_Main,NTP,0000,0000,0000,,Vuelve aquí.
+Dialogue: 0,0:05:31.00,0:05:32.06,Gen_Main,NTP,0000,0000,0000,,Pero…
+Dialogue: 0,0:05:32.06,0:05:33.81,Gen_Main,NTP,0000,0000,0000,,No discutas. ¡Ven!
+Dialogue: 0,0:05:34.50,0:05:36.56,Gen_Main,NTP,0000,0000,0000,,Saldrán los demonios.
+Dialogue: 0,0:05:50.27,0:05:51.49,Gen_Main,NTP,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:05:56.36,0:06:00.79,Gen_Main,NTP,0000,0000,0000,,Saburo, ¿cómo son los demonios?
+Dialogue: 0,0:06:01.90,0:06:06.09,Gen_Main,NTP,0000,0000,0000,,Los demonios devorahombres\Naparecen cuando se pone el sol.
+Dialogue: 0,0:06:08.59,0:06:12.05,Gen_Main,NTP,0000,0000,0000,,Por eso no debes salir de noche.
+Dialogue: 0,0:06:12.71,0:06:16.56,Gen_Main,NTP,0000,0000,0000,,Cuando termines, duerme.\NMadruga mañana para volver a casa.
+Dialogue: 0,0:06:20.84,0:06:25.03,Gen_Main,NTP,0000,0000,0000,,¿Los demonios no entran en las casas?
+Dialogue: 0,0:06:25.93,0:06:28.57,Gen_Main,NTP,0000,0000,0000,,Sí entran.
+Dialogue: 0,0:06:32.10,0:06:35.74,Gen_Main,NTP,0000,0000,0000,,Entonces devorarán a todo el mundo.
+Dialogue: 0,0:06:38.52,0:06:42.25,Gen_Main,NTP,0000,0000,0000,,Por eso los cazadores de demonios\Nlos cazan por nosotros.
+Dialogue: 0,0:06:42.61,0:06:44.04,Gen_Main,NTP,0000,0000,0000,,Desde hace mucho.
+Dialogue: 0,0:06:46.28,0:06:47.75,Gen_Main,NTP,0000,0000,0000,,Apagaré la luz.
+Dialogue: 0,0:06:48.03,0:06:49.34,Gen_Main,NTP,0000,0000,0000,,Duérmete ya.
+Dialogue: 0,0:06:52.50,0:06:56.83,Gen_Italics,NTP,0000,0000,0000,,El viejo Saburo vive solo\Ndesde que perdió a su familia.
+Dialogue: 0,0:06:56.83,0:06:58.31,Gen_Italics,NTP,0000,0000,0000,,Debe sentirse solo.
+Dialogue: 0,0:06:59.23,0:07:01.69,Gen_Italics,NTP,0000,0000,0000,,La próxima vez traeré a mis hermanos.
+Dialogue: 0,0:07:02.34,0:07:06.57,Gen_Italics,NTP,0000,0000,0000,,Le diremos que no hay demonios.\NQue no tiene por qué tener miedo.
+Dialogue: 0,0:07:07.30,0:07:09.28,Gen_Italics,NTP,0000,0000,0000,,Aunque, ahora que lo pienso,
+Dialogue: 0,0:07:10.01,0:07:13.91,Gen_Italics,NTP,0000,0000,0000,,mi abuela me dijo\Nalgo parecido antes de morir.
+Dialogue: 0,0:07:19.73,0:07:21.08,Gen_Main,NTP,0000,0000,0000,,Ten cuidado.
+Dialogue: 0,0:07:21.58,0:07:22.46,Gen_Main,NTP,0000,0000,0000,,Sí.
+Dialogue: 0,0:07:31.41,0:07:33.68,Gen_Italics,NTP,0000,0000,0000,,Cuando la felicidad se desmorona,
+Dialogue: 0,0:07:34.37,0:07:35.47,Gen_Italics,NTP,0000,0000,0000,,siempre…
+Dialogue: 0,0:07:42.75,0:07:44.36,Gen_Main,NTP,0000,0000,0000,,¡Huele a sangre!
+Dialogue: 0,0:08:07.36,0:08:08.59,Gen_Main,NTP,0000,0000,0000,,¡Nezuko!
+Dialogue: 0,0:08:09.32,0:08:12.01,Gen_Main,NTP,0000,0000,0000,,¿Qué pasó? ¿Qué les pasó?
+Dialogue: 0,0:08:12.42,0:08:14.13,Gen_Main,NTP,0000,0000,0000,,¿Qué ocurrió?
+Dialogue: 0,0:08:19.96,0:08:21.52,Gen_Main,NTP,0000,0000,0000,,Mamá…
+Dialogue: 0,0:08:28.51,0:08:29.65,Gen_Main,NTP,0000,0000,0000,,Mamá…
+Dialogue: 0,0:08:30.09,0:08:31.15,Gen_Main,NTP,0000,0000,0000,,Hanako…
+Dialogue: 0,0:08:32.01,0:08:33.15,Gen_Main,NTP,0000,0000,0000,,Takeo…
+Dialogue: 0,0:08:33.43,0:08:34.70,Gen_Main,NTP,0000,0000,0000,,Shigeru…
+Dialogue: 0,0:08:35.51,0:08:36.85,Gen_Main,NTP,0000,0000,0000,,Nezuko…
+Dialogue: 0,0:08:36.85,0:08:38.24,Gen_Main,NTP,0000,0000,0000,,Rokuta…
+Dialogue: 0,0:08:46.36,0:08:48.84,Gen_Italics,NTP,0000,0000,0000,,Nezuko aún conserva algo de calor.
+Dialogue: 0,0:08:50.03,0:08:52.46,Gen_Italics,NTP,0000,0000,0000,,Un médico podría salvarla.
+Dialogue: 0,0:08:52.95,0:08:55.18,Gen_Italics,NTP,0000,0000,0000,,¿Por qué pasó esto?
+Dialogue: 0,0:08:56.41,0:08:57.58,Gen_Italics,NTP,0000,0000,0000,,¿Fue un oso?
+Dialogue: 0,0:08:57.58,0:09:00.06,Gen_Italics,NTP,0000,0000,0000,,¿Apareció un oso que no hibernó?
+Dialogue: 0,0:09:06.30,0:09:08.11,Gen_Italics,NTP,0000,0000,0000,,No puedo respirar.
+Dialogue: 0,0:09:08.11,0:09:11.11,Gen_Italics,NTP,0000,0000,0000,,Me duelen los pulmones\Nde respirar aire helado.
+Dialogue: 0,0:09:11.68,0:09:13.36,Gen_Italics,NTP,0000,0000,0000,,¡Sigue adelante!
+Dialogue: 0,0:09:13.36,0:09:15.80,Gen_Italics,NTP,0000,0000,0000,,¡Mueve las piernas más rápido!
+Dialogue: 0,0:09:16.36,0:09:18.89,Gen_Italics,NTP,0000,0000,0000,,La ciudad aún está lejos.
+Dialogue: 0,0:09:18.89,0:09:19.99,Gen_Italics,NTP,0000,0000,0000,,¡Rápido!
+Dialogue: 0,0:09:20.98,0:09:23.12,Gen_Italics,NTP,0000,0000,0000,,No dejaré que mueras.
+Dialogue: 0,0:09:25.36,0:09:27.08,Gen_Italics,NTP,0000,0000,0000,,Juro que te salvaré.
+Dialogue: 0,0:09:27.82,0:09:30.25,Gen_Italics,NTP,0000,0000,0000,,¡Tu hermano te salvará!
+Dialogue: 0,0:09:38.41,0:09:39.64,Gen_Italics,NTP,0000,0000,0000,,¡No!
+Dialogue: 0,0:09:48.17,0:09:51.27,Gen_Italics,NTP,0000,0000,0000,,La nieve me salvó la vida.
+Dialogue: 0,0:09:51.72,0:09:53.90,Gen_Italics,NTP,0000,0000,0000,,Aunque también me hizo resbalar.
+Dialogue: 0,0:09:55.80,0:09:57.03,Gen_Main,NTP,0000,0000,0000,,Nezuko.
+Dialogue: 0,0:10:03.27,0:10:05.58,Gen_Main,NTP,0000,0000,0000,,¿Estás bien, Nezuko?
+Dialogue: 0,0:10:06.90,0:10:08.25,Gen_Main,NTP,0000,0000,0000,,No camines.
+Dialogue: 0,0:10:08.25,0:10:10.58,Gen_Main,NTP,0000,0000,0000,,Yo te llevaré hasta la ciudad.
+Dialogue: 0,0:10:11.44,0:10:12.67,Gen_Main,NTP,0000,0000,0000,,¡Nezuko!
+Dialogue: 0,0:10:21.91,0:10:23.64,Gen_Italics,NTP,0000,0000,0000,,Es…
+Dialogue: 0,0:10:24.79,0:10:25.89,Gen_Italics,NTP,0000,0000,0000,,¡Es un demonio!
+Dialogue: 0,0:10:27.29,0:10:30.27,Gen_Italics,NTP,0000,0000,0000,,Acabo de recordar lo que dijo Saburo.
+Dialogue: 0,0:10:31.53,0:10:33.77,Gen_Italics,NTP,0000,0000,0000,,¿Nezuko es un demonio devorahombres?
+Dialogue: 0,0:10:34.09,0:10:38.11,Gen_Italics,NTP,0000,0000,0000,,No. Nezuko es humana desde que nació.
+Dialogue: 0,0:10:38.76,0:10:42.45,Gen_Italics,NTP,0000,0000,0000,,Aunque no huele\Ncomo la Nezuko de siempre.
+Dialogue: 0,0:10:43.64,0:10:45.83,Gen_Italics,NTP,0000,0000,0000,,Pero eso no lo hizo ella.
+Dialogue: 0,0:10:46.31,0:10:48.62,Gen_Italics,NTP,0000,0000,0000,,Parecía estar protegiendo a Rokuta
+Dialogue: 0,0:10:48.62,0:10:51.38,Gen_Italics,NTP,0000,0000,0000,,y no tenía sangre\Nen las manos o la boca.
+Dialogue: 0,0:10:52.13,0:10:55.71,Gen_Italics,NTP,0000,0000,0000,,Además había otro olor allí.
+Dialogue: 0,0:11:00.03,0:11:02.68,Gen_Main,NTP,0000,0000,0000,,¡Se hizo más grande!
+Dialogue: 0,0:11:04.71,0:11:06.93,Gen_Italics,NTP,0000,0000,0000,,Y cada vez es más fuerte.
+Dialogue: 0,0:11:07.65,0:11:10.68,Gen_Italics,NTP,0000,0000,0000,,Mientras yo dormía\Ntranquilamente en otra casa,
+Dialogue: 0,0:11:10.68,0:11:13.27,Gen_Italics,NTP,0000,0000,0000,,ellos pasaron por algo aterrador.
+Dialogue: 0,0:11:13.81,0:11:15.19,Gen_Italics,NTP,0000,0000,0000,,Les dolió, ¿verdad?
+Dialogue: 0,0:11:15.54,0:11:17.03,Gen_Italics,NTP,0000,0000,0000,,Sufrieron, ¿verdad?
+Dialogue: 0,0:11:18.39,0:11:21.20,Gen_Italics,NTP,0000,0000,0000,,Siento no haberlos podido salvar.
+Dialogue: 0,0:11:22.56,0:11:25.33,Gen_Italics,NTP,0000,0000,0000,,Pero al menos haré algo por Nezuko.
+Dialogue: 0,0:11:25.60,0:11:28.82,Gen_Italics,NTP,0000,0000,0000,,Es demasiado fuerte.\NNo puedo quitármela de encima.
+Dialogue: 0,0:11:29.48,0:11:30.54,Gen_Main,NTP,0000,0000,0000,,¡Nezuko!
+Dialogue: 0,0:11:30.90,0:11:32.69,Gen_Main,NTP,0000,0000,0000,,¡Aguanta, Nezuko!
+Dialogue: 0,0:11:32.69,0:11:34.07,Gen_Main,NTP,0000,0000,0000,,¡Resístelo!
+Dialogue: 0,0:11:34.07,0:11:35.84,Gen_Main,NTP,0000,0000,0000,,¡Haz lo que puedas!
+Dialogue: 0,0:11:37.15,0:11:40.70,Gen_Main,NTP,0000,0000,0000,,¡No te conviertas en demonio! ¡Aguanta!
+Dialogue: 0,0:11:40.70,0:11:42.01,Gen_Main,NTP,0000,0000,0000,,¡Tú puedes!
+Dialogue: 0,0:11:42.43,0:11:43.97,Gen_Main,NTP,0000,0000,0000,,¡Sé que puedes!
+Dialogue: 0,0:12:16.36,0:12:17.67,Gen_Italics,NTP,0000,0000,0000,,¿Qué…?
+Dialogue: 0,0:12:21.95,0:12:23.18,Gen_Italics,NTP,0000,0000,0000,,¿Quién es?
+Dialogue: 0,0:12:27.26,0:12:29.52,Cart_A_Tre,NTP,0000,0000,0000,,Aniquilademonios
+Dialogue: 0,0:12:27.75,0:12:28.93,Gen_Italics,NTP,0000,0000,0000,,¿Una espada?
+Dialogue: 0,0:12:30.08,0:12:31.52,Gen_Main,NTP,0000,0000,0000,,¿Por qué la proteges?
+Dialogue: 0,0:12:31.79,0:12:33.13,Gen_Main,NTP,0000,0000,0000,,Es mi hermana.
+Dialogue: 0,0:12:33.13,0:12:34.94,Gen_Main,NTP,0000,0000,0000,,¡Es mi hermana menor!
+Dialogue: 0,0:12:37.69,0:12:39.02,Gen_Main,NTP,0000,0000,0000,,¡Nezuko!
+Dialogue: 0,0:12:42.76,0:12:44.95,Gen_Main,NTP,0000,0000,0000,,¿Eso es tu hermana?
+Dialogue: 0,0:13:00.78,0:13:01.88,Gen_Main,NTP,0000,0000,0000,,¡Nezuko!
+Dialogue: 0,0:13:01.88,0:13:02.84,Gen_Main,NTP,0000,0000,0000,,No te muevas.
+Dialogue: 0,0:13:06.83,0:13:09.79,Gen_Main,NTP,0000,0000,0000,,Mi trabajo es matar demonios.
+Dialogue: 0,0:13:09.79,0:13:12.85,Gen_Main,NTP,0000,0000,0000,,Le cortaré la cabeza a tu hermana.
+Dialogue: 0,0:13:13.46,0:13:14.75,Gen_Main,NTP,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:13:14.75,0:13:16.77,Gen_Main,NTP,0000,0000,0000,,¡Nezuko no mató a nadie!
+Dialogue: 0,0:13:17.80,0:13:22.03,Gen_Main,NTP,0000,0000,0000,,En mi casa sentí el olor\Nde un desconocido.
+Dialogue: 0,0:13:22.38,0:13:26.68,Gen_Main,NTP,0000,0000,0000,,¡Probablemente fue\Nquien los mató a todos!
+Dialogue: 0,0:13:26.68,0:13:28.37,Gen_Main,NTP,0000,0000,0000,,¡No fue Nezuko!
+Dialogue: 0,0:13:28.72,0:13:31.41,Gen_Main,NTP,0000,0000,0000,,No sé por qué se transformó, pero…
+Dialogue: 0,0:13:32.27,0:13:33.58,Gen_Main,NTP,0000,0000,0000,,Pero…
+Dialogue: 0,0:13:33.81,0:13:35.46,Gen_Main,NTP,0000,0000,0000,,Eso es sencillo.
+Dialogue: 0,0:13:35.74,0:13:39.63,Gen_Main,NTP,0000,0000,0000,,Se transformó porque entró sangre\Nde demonio en sus heridas.
+Dialogue: 0,0:13:40.61,0:13:43.67,Gen_Main,NTP,0000,0000,0000,,Así se multiplican\Nlos demonios devorahombres.
+Dialogue: 0,0:13:44.09,0:13:46.51,Gen_Main,NTP,0000,0000,0000,,¡Nezuko jamás devoraría a un humano!
+Dialogue: 0,0:13:46.99,0:13:48.72,Gen_Main,NTP,0000,0000,0000,,No puedo creerlo.
+Dialogue: 0,0:13:48.99,0:13:52.31,Gen_Main,NTP,0000,0000,0000,,Estaba a punto de devorarte a ti.
+Dialogue: 0,0:13:53.01,0:13:54.14,Gen_Main,NTP,0000,0000,0000,,¡No!
+Dialogue: 0,0:13:54.38,0:13:57.10,Gen_Main,NTP,0000,0000,0000,,¡Me reconoce!
+Dialogue: 0,0:13:57.34,0:13:59.36,Gen_Main,NTP,0000,0000,0000,,No dejaré que lastime a nadie.
+Dialogue: 0,0:13:59.63,0:14:01.92,Gen_Main,NTP,0000,0000,0000,,Haré que vuelva a ser humana.
+Dialogue: 0,0:14:01.92,0:14:03.61,Gen_Main,NTP,0000,0000,0000,,¡Juro que la curaré!
+Dialogue: 0,0:14:04.34,0:14:05.86,Gen_Main,NTP,0000,0000,0000,,No tiene cura.
+Dialogue: 0,0:14:05.86,0:14:09.37,Gen_Main,NTP,0000,0000,0000,,Un demonio no puede volver a ser humano.
+Dialogue: 0,0:14:09.60,0:14:12.99,Gen_Main,NTP,0000,0000,0000,,¡Encontraré una forma!
+Dialogue: 0,0:14:13.48,0:14:15.54,Gen_Main,NTP,0000,0000,0000,,¡Por favor, no la mates!
+Dialogue: 0,0:14:15.54,0:14:18.44,Gen_Main,NTP,0000,0000,0000,,¡Encontraré al que mató a mi familia!
+Dialogue: 0,0:14:18.44,0:14:21.03,Gen_Main,NTP,0000,0000,0000,,¡Lo arreglaré todo!
+Dialogue: 0,0:14:21.03,0:14:22.17,Gen_Main,NTP,0000,0000,0000,,¡Por favor!
+Dialogue: 0,0:14:22.67,0:14:24.05,Gen_Main,NTP,0000,0000,0000,,¡Por favor!
+Dialogue: 0,0:14:24.05,0:14:25.88,Gen_Main,NTP,0000,0000,0000,,¡No lo hagas!
+Dialogue: 0,0:14:26.49,0:14:29.43,Gen_Italics,NTP,0000,0000,0000,,No me arrebates a nadie más.
+Dialogue: 0,0:14:31.68,0:14:33.39,Gen_Main,NTP,0000,0000,0000,,Te lo ruego.
+Dialogue: 0,0:14:34.21,0:14:38.27,Gen_Main,NTP,0000,0000,0000,,Por favor, no mates a mi hermana.
+Dialogue: 0,0:14:39.09,0:14:40.77,Gen_Main,NTP,0000,0000,0000,,Te lo ruego.
+Dialogue: 0,0:14:41.88,0:14:43.40,Gen_Main,NTP,0000,0000,0000,,Te lo ruego.
+Dialogue: 0,0:14:51.72,0:14:55.54,Gen_Main,NTP,0000,0000,0000,,¡No le des a nadie\Nla oportunidad de matarte!
+Dialogue: 0,0:14:56.69,0:14:59.32,Gen_Main,NTP,0000,0000,0000,,¡No te denigres encogiéndote!
+Dialogue: 0,0:14:59.32,0:15:03.75,Gen_Main,NTP,0000,0000,0000,,Si eso sirviera de algo,\N¡tu familia no estaría muerta!
+Dialogue: 0,0:15:04.28,0:15:09.13,Gen_Main,NTP,0000,0000,0000,,¿Que un débil que no toma\Nla iniciativa curará a su hermana?
+Dialogue: 0,0:15:09.13,0:15:11.09,Gen_Main,NTP,0000,0000,0000,,¿Que encontrará a su enemigo?
+Dialogue: 0,0:15:11.33,0:15:13.10,Gen_Main,NTP,0000,0000,0000,,¡No seas ridículo!
+Dialogue: 0,0:15:13.10,0:15:16.62,Gen_Main,NTP,0000,0000,0000,,Los débiles no tienen\Nni derechos ni elecciones.
+Dialogue: 0,0:15:16.62,0:15:20.44,Gen_Main,NTP,0000,0000,0000,,¡Su destino es ser aplastados\Npor los fuertes!
+Dialogue: 0,0:15:20.67,0:15:24.15,Gen_Main,NTP,0000,0000,0000,,Los demonios podrían saber\Ncómo curar a tu hermana.
+Dialogue: 0,0:15:24.61,0:15:29.78,Gen_Main,NTP,0000,0000,0000,,Pero no creas que respetarán\Ntu voluntad o tus deseos.
+Dialogue: 0,0:15:30.05,0:15:32.66,Gen_Main,NTP,0000,0000,0000,,¡Yo tampoco!
+Dialogue: 0,0:15:32.66,0:15:34.20,Gen_Main,NTP,0000,0000,0000,,Esa es la realidad.
+Dialogue: 0,0:15:34.43,0:15:37.37,Gen_Main,NTP,0000,0000,0000,,¿Por qué te lanzaste\Nsobre tu hermana antes?
+Dialogue: 0,0:15:37.60,0:15:39.79,Gen_Main,NTP,0000,0000,0000,,¿Crees que así la proteges?
+Dialogue: 0,0:15:40.06,0:15:42.04,Gen_Main,NTP,0000,0000,0000,,¿Por qué no blandiste el hacha?
+Dialogue: 0,0:15:42.04,0:15:44.17,Gen_Main,NTP,0000,0000,0000,,¿Por qué me mostraste la espalda?
+Dialogue: 0,0:15:44.17,0:15:46.96,Gen_Main,NTP,0000,0000,0000,,¡Capturé a tu hermana\Nporque cometiste errores!
+Dialogue: 0,0:15:47.24,0:15:50.67,Gen_Main,NTP,0000,0000,0000,,¡Podía haberlos atravesado a los dos!
+Dialogue: 0,0:15:53.79,0:15:54.89,Gen_Italics,NTP,0000,0000,0000,,No llores.
+Dialogue: 0,0:15:55.29,0:15:56.68,Gen_Italics,NTP,0000,0000,0000,,No desesperes.
+Dialogue: 0,0:15:57.08,0:15:59.35,Gen_Italics,NTP,0000,0000,0000,,No es el momento.
+Dialogue: 0,0:16:00.18,0:16:03.10,Gen_Italics,NTP,0000,0000,0000,,Sé que estás devastado.
+Dialogue: 0,0:16:03.36,0:16:06.82,Gen_Italics,NTP,0000,0000,0000,,Mataron a tu familia\Ny tu hermana ahora es un demonio.
+Dialogue: 0,0:16:06.82,0:16:07.98,Gen_Italics,NTP,0000,0000,0000,,Es duro.
+Dialogue: 0,0:16:08.63,0:16:10.28,Gen_Italics,NTP,0000,0000,0000,,Quieres gritar.
+Dialogue: 0,0:16:11.43,0:16:12.61,Gen_Italics,NTP,0000,0000,0000,,Lo entiendo.
+Dialogue: 0,0:16:13.64,0:16:16.93,Gen_Italics,NTP,0000,0000,0000,,Si hubiera llegado medio día antes,
+Dialogue: 0,0:16:16.93,0:16:19.83,Gen_Italics,NTP,0000,0000,0000,,tu familia tal vez seguiría viva.
+Dialogue: 0,0:16:20.31,0:16:24.29,Gen_Italics,NTP,0000,0000,0000,,Pero no hay forma\Nde volver atrás en el tiempo.
+Dialogue: 0,0:16:24.94,0:16:26.13,Gen_Italics,NTP,0000,0000,0000,,Enójate.
+Dialogue: 0,0:16:26.53,0:16:29.31,Gen_Italics,NTP,0000,0000,0000,,La ira de ser incapaz de perdonar
+Dialogue: 0,0:16:29.31,0:16:32.72,Gen_Italics,NTP,0000,0000,0000,,será lo que te impulsará a actuar.
+Dialogue: 0,0:16:33.37,0:16:35.26,Gen_Italics,NTP,0000,0000,0000,,Una determinación débil
+Dialogue: 0,0:16:35.72,0:16:38.66,Gen_Italics,NTP,0000,0000,0000,,no te permitirá proteger\No curar a tu hermana
+Dialogue: 0,0:16:38.66,0:16:41.60,Gen_Italics,NTP,0000,0000,0000,,ni vengar a tu familia.
+Dialogue: 0,0:16:41.60,0:16:42.48,Gen_Main,NTP,0000,0000,0000,,¡No!
+Dialogue: 0,0:16:44.94,0:16:46.27,Gen_Main,NTP,0000,0000,0000,,¡Detente!
+Dialogue: 0,0:17:01.19,0:17:04.25,Gen_Italics,NTP,0000,0000,0000,,Un ataque directo\Nimpulsado por sus emociones.
+Dialogue: 0,0:17:04.25,0:17:05.25,Gen_Main,NTP,0000,0000,0000,,¡Necio!
+Dialogue: 0,0:17:20.21,0:17:21.64,Gen_Italics,NTP,0000,0000,0000,,¿Dónde está el hacha?
+Dialogue: 0,0:17:30.55,0:17:32.90,Gen_Italics,NTP,0000,0000,0000,,Antes de esconderse tras el árbol
+Dialogue: 0,0:17:33.89,0:17:38.99,Gen_Italics,NTP,0000,0000,0000,,me lanzó una roca y al mismo tiempo\Nlanzó el hacha hacia arriba.
+Dialogue: 0,0:17:40.06,0:17:45.41,Gen_Italics,NTP,0000,0000,0000,,Escondió sus manos para\Nque no viera que no llevaba arma.
+Dialogue: 0,0:17:46.52,0:17:49.00,Gen_Italics,NTP,0000,0000,0000,,Sabía que no podía vencerme.
+Dialogue: 0,0:17:49.86,0:17:53.67,Gen_Italics,NTP,0000,0000,0000,,Pretendía matarme después de morir.
+Dialogue: 0,0:17:54.99,0:17:56.43,Gen_Italics,NTP,0000,0000,0000,,Este chico…
+Dialogue: 0,0:18:01.25,0:18:02.22,Gen_Italics,NTP,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:18:02.22,0:18:03.64,Gen_Italics,NTP,0000,0000,0000,,¡Lo devorará!
+Dialogue: 0,0:18:08.09,0:18:09.48,Gen_Italics,NTP,0000,0000,0000,,Nezuko…
+Dialogue: 0,0:18:13.01,0:18:14.90,Gen_Italics,NTP,0000,0000,0000,,No fue Nezuko.
+Dialogue: 0,0:18:16.78,0:18:18.91,Gen_Italics,NTP,0000,0000,0000,,¡Ella no devoraría a un humano!
+Dialogue: 0,0:18:22.52,0:18:23.79,Gen_Italics,NTP,0000,0000,0000,,Hace tiempo,
+Dialogue: 0,0:18:24.06,0:18:27.83,Gen_Italics,NTP,0000,0000,0000,,un demonio devoró a alguien\Nque dijo lo mismo.
+Dialogue: 0,0:18:28.69,0:18:30.84,Gen_Italics,NTP,0000,0000,0000,,Un demonio hambriento
+Dialogue: 0,0:18:30.84,0:18:33.84,Gen_Italics,NTP,0000,0000,0000,,devoraría a sus propios\Npadres y hermanos.
+Dialogue: 0,0:18:34.36,0:18:36.34,Gen_Italics,NTP,0000,0000,0000,,Porque necesitan nutrirse.
+Dialogue: 0,0:18:36.99,0:18:40.30,Gen_Italics,NTP,0000,0000,0000,,Lo presencié en más de una ocasión.
+Dialogue: 0,0:18:41.20,0:18:43.72,Gen_Italics,NTP,0000,0000,0000,,Esta muchacha está herida
+Dialogue: 0,0:18:44.08,0:18:47.33,Gen_Italics,NTP,0000,0000,0000,,y gasta energía en curarse.
+Dialogue: 0,0:18:47.71,0:18:51.68,Gen_Italics,NTP,0000,0000,0000,,Transformarse en demonio\Ntambién consume energía.
+Dialogue: 0,0:18:51.96,0:18:55.44,Gen_Italics,NTP,0000,0000,0000,,Tiene que estar hambrienta.
+Dialogue: 0,0:18:56.59,0:19:01.16,Gen_Italics,NTP,0000,0000,0000,,Debe desear comer carne cuanto antes.
+Dialogue: 0,0:19:01.68,0:19:03.24,Gen_Italics,NTP,0000,0000,0000,,Pero lo protegió.
+Dialogue: 0,0:19:03.56,0:19:05.62,Gen_Italics,NTP,0000,0000,0000,,Me amenaza a mí.
+Dialogue: 0,0:19:08.31,0:19:09.37,Gen_Italics,NTP,0000,0000,0000,,Tal vez…
+Dialogue: 0,0:19:10.19,0:19:13.75,Gen_Italics,NTP,0000,0000,0000,,ellos sean distintos.
+Dialogue: 0,0:19:31.17,0:19:35.11,Gen_Main,NTP,0000,0000,0000,,Siento haberte dejado solo, Tanjiro.
+Dialogue: 0,0:19:36.13,0:19:38.61,Gen_Main,NTP,0000,0000,0000,,Cuida de Nezuko, por favor.
+Dialogue: 0,0:19:49.94,0:19:51.17,Gen_Main,NTP,0000,0000,0000,,¿Despertaste?
+Dialogue: 0,0:19:54.36,0:19:59.67,Gen_Main,NTP,0000,0000,0000,,Ve a ver a un viejo llamado Sakonji\NUrokodaki al pie del Monte Sagiri.
+Dialogue: 0,0:20:00.99,0:20:03.84,Gen_Main,NTP,0000,0000,0000,,Dile que te envía Giyu Tomioka.
+Dialogue: 0,0:20:05.16,0:20:08.31,Gen_Main,NTP,0000,0000,0000,,Por el momento\Nestá bien porque no da el sol,
+Dialogue: 0,0:20:08.79,0:20:11.81,Gen_Main,NTP,0000,0000,0000,,pero no la expongas a la luz solar.
+Dialogue: 0,0:20:28.85,0:20:30.04,Gen_Main,NTP,0000,0000,0000,,Vámonos.
+Dialogue: 0,0:21:06.49,0:21:09.99,Cart_TitleEp,NTP,0000,0000,0000,,Episodio 1\N{\b1\fs24}Crueldad
